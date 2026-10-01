@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-label="Hai khung bình luận tranh biện đối diện nhau">
+  <rect width="900" height="360" fill="#1f2a44"/>
+  <rect x="0" y="300" width="900" height="60" fill="#16203a"/>
+  <rect x="90" y="90" width="300" height="130" rx="22" fill="#f2b84b"/>
+  <polygon points="150,220 190,220 160,262" fill="#f2b84b"/>
+  <rect x="510" y="140" width="300" height="130" rx="22" fill="#fafaf7"/>
+  <polygon points="750,270 710,270 740,312" fill="#fafaf7"/>
+  <text x="240" y="168" font-family="Georgia, serif" font-size="46" font-weight="bold" fill="#1f2a44" text-anchor="middle">Đồng ý</text>
+  <text x="660" y="218" font-family="Georgia, serif" font-size="46" font-weight="bold" fill="#1f2a44" text-anchor="middle">Phản biện</text>
+  <text x="450" y="50" font-family="Georgia, serif" font-size="26" fill="#fafaf7" text-anchor="middle">Mỗi ý kiến đều cần một lập luận</text>
+</svg>
